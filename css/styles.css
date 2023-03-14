@@ -668,7 +668,6 @@ img{
 	width: 14px;
 	height: 8px;
 }
-/**       if need focus on checkcell        */
 /* .form-input-check:focus + .pseudo-checkbox{
 	outline: 1px solid var(--pressed-state);
 } */
