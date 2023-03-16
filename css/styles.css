@@ -483,6 +483,8 @@ img{
 	background-color: var(--footer-hover);
 }
 .subscribe-field{
+	outline:none;
+
 	padding: 8px 16px;
 
 	color: var(--primary-clr);
